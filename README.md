@@ -4,4 +4,4 @@ Este É Um Projeto De Hospedagem De Vídeos E Músicas Utilizando Node.js E Expr
 
 ## Instalação
 
-1. Clone o repositório:
+1. Clone o repositório: github.com/phoenixsrd/project.git
