@@ -1,7 +1,7 @@
 {
   "name": "video-music-hosting",
   "version": "1.0.0",
-  "description": "Serviço de hospedagem de vídeos e músicas",
+  "description": "Serviço De Hospedagem De Vídeos E Músicas",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
@@ -13,7 +13,7 @@
     "node",
     "express"
   ],
-  "author": "phoenixsrd",
+  "author": "riquelmedmr",
   "license": "MIT",
   "dependencies": {
     "body-parser": "^1.19.0",
