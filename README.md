@@ -20,7 +20,7 @@ Se Necessário, Configure Variáveis De Ambiente Ou Outras Configurações Espec
 
 Para Iniciar O Servidor: npm start
 
-O serviço Estará Disponível Em [http://localhost:5000](http://localhost:5000).
+O Serviço Estará Disponível Em [http://localhost:5000](http://localhost:5000).
 
 ## Funcionalidades
 
