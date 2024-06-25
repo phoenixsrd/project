@@ -19,3 +19,16 @@ Se Necessário, Configure Variáveis De Ambiente Ou Outras Configurações Espec
 ### Executando o Projeto
 
 Para Iniciar O Servidor: npm start
+
+O serviço Estará Disponível Em [http://localhost:5000](http://localhost:5000).
+
+## Funcionalidades
+
+- Servidor Básico Com Express.js
+- Conexão Com banco De Dados MongoDB Usando Mongoose
+- Página Inicial Simples Em HTML E CSS
+- Exemplo De Script JavaScript Para Interação Com O Usuário
+
+## Licença
+
+Este Projeto Está Licenciado Sob A Licença MIT - Veja O Arquivo [LICENSE](LICENSE) Para Mais Detalhes.
