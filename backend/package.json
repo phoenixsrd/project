@@ -13,7 +13,7 @@
     "node",
     "express"
   ],
-  "author": "riquelmedmr",
+  "author": "phoenixsrd",
   "license": "MIT",
   "dependencies": {
     "body-parser": "^1.19.0",
