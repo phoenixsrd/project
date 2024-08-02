@@ -31,4 +31,4 @@ O Serviço Estará Disponível Em [http://localhost:5000](http://localhost:5000)
 
 ## Licença
 
-Este Projeto Está Licenciado Sob A Licença MIT - Veja O Arquivo [LICENSE](LICENSE) Para Mais Detalhes.
+Este Projeto Está Licenciado Sob A Licença MIT - Veja O Arquivo [license](license) Para Mais Detalhes.
