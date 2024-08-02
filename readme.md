@@ -6,7 +6,7 @@ Este É Um Projeto De Hospedagem De Videos E Músicas Utilizando Node.js E Expre
 
 ### Clonando o Repositório
 
-Clone O Repositório Do GitHub: git clone github.com/phoenixsrd/project.git
+Clone O Repositório Do GitHub: git clone https://github.com/phoenixsrd/project.git
 
 ### Instalando Dependências
 
